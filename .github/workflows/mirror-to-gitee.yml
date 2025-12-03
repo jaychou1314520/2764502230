@@ -21,6 +21,6 @@ jobs:
         with:
           # 目标Gitee仓库
           target_repo_url:
-            git@gitee.com:derek_nlp/nlp-arxiv-daily-for-lab.git
+            git@gitee.com:jaychou1314520/nlp-arxiv-daily-for-lab.git
           ssh_private_key:
             ${{ secrets.GITEE_KEY }}
